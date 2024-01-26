@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercise 1: Getting Started with PHP - Dan Vu</title>
+    <title>Exercise 1: Getting Started with PHP - zhenliang Hao</title>
 
 </head>
 <body>
