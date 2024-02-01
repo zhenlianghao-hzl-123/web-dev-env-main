@@ -56,16 +56,17 @@
         }
 
         .col-sm-3 {
-            background-color: #f5deb3; /* Wheat color for the sidebar */
+            background-color: #87CEEB; 
             padding: 10px;
             border-radius: 5px;
         }
 
         .col-sm-9 {
-            background-color: #fff; /* White background color for the content area */
+            background-color: #fff; 
             padding: 20px;
             border-radius: 5px;
         }
+
     </style>
 </head>
 <body>
@@ -83,13 +84,16 @@
                                 <a class="nav-link" aria-current="page" href="layout.php">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="ex1.php">Task1</a>
+                                <a class="nav-link" href="ex1.php">Exercise1</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="layout.php">Task2</a>
+                                <a class="nav-link" href="layout.php">Exercise2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Link2</a>
+                                <a class="nav-link" href="ex3.php">Exercise3</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="ex4.php">Exercise4</a>
                             </li>
                         </ul>
                         <form class="d-flex" role="search">
